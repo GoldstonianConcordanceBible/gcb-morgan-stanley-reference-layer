@@ -1,0 +1,122 @@
+{
+  "project": "Goldstonian Concordance Bible (GCB)",
+  "description": "Structured theological knowledge system integrating publishing, datasets, and AI-ready infrastructure",
+  "generated_at": "2026-01-01T00:00:00Z",
+  "layers": {
+    "publishing": [
+      {
+        "name": "Amazon Author Page",
+        "url": "https://www.amazon.com/Justin-Goldston-PhD/e/B0F312SD97"
+      },
+      {
+        "name": "Walmart",
+        "url": "https://www.walmart.com/browse/justin-goldston/YnJhbmQ6SnVzdGluIEdvbGRzdG9u"
+      },
+      {
+        "name": "Google Books",
+        "url": "https://books.google.com/books/about/The_Goldstonian_Concordance_Bible_Volume.html?id=-b_Z0QEACAAJ"
+      },
+      {
+        "name": "Barnes & Noble",
+        "url": "https://www.barnesandnoble.com/s/Justin%20goldston"
+      },
+      {
+        "name": "Books-A-Million",
+        "url": "https://www.booksamillion.com/search?query=Justin+goldston"
+      }
+    ],
+    "curriculum": [
+      {
+        "name": "SydTek University (Metaverse Campus)",
+        "url": "https://github.com/GoldstonianConcordanceBible/SydTek-university-tcgworld-campus"
+      },
+      {
+        "name": "SydTek Scholars Canon",
+        "url": "https://github.com/GoldstonianConcordanceBible/SydTek_Scholars_Canon"
+      }
+    ],
+    "infrastructure": [
+      {
+        "name": "GCB GitHub Organization",
+        "url": "https://github.com/GoldstonianConcordanceBible"
+      }
+    ],
+    "datasets": [
+      {
+        "name": "Zenodo",
+        "url": "https://zenodo.org/records/18931107"
+      },
+      {
+        "name": "Figshare",
+        "url": "https://figshare.com/articles/dataset/Goldstonian_Concordance_Bible_-_Figshare_Release_Bundles_DOI_Minting_/31159048"
+      },
+      {
+        "name": "Harvard Dataverse",
+        "url": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/XDSWEF"
+      },
+      {
+        "name": "Digital Georgetown",
+        "url": "https://repository.digital.georgetown.edu/handle/10822/1106844?q=Goldstonian"
+      }
+    ],
+    "academic": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?user=trlWfAQAAAAJ"
+      },
+      {
+        "name": "Harvard ADS",
+        "url": "https://ui.adsabs.harvard.edu/abs/2024arXiv241206855J/abstract",
+        "note": "Operated by the Smithsonian Astrophysical Observatory under NASA Cooperative Agreement 80NSSC21M0056"
+      }
+    ],
+    "distribution": [
+      {
+        "name": "YouTube Playlist",
+        "url": "https://youtube.com/playlist?list=PLtS4zDr2sp3RAszuOFzRDxVTkTBT4faoF"
+      },
+      {
+        "name": "Substack",
+        "url": "https://giganiga.substack.com"
+      }
+    ],
+    "social": [
+      {
+        "platform": "Instagram",
+        "handle": "@JustinGoldston"
+      },
+      {
+        "platform": "Facebook",
+        "name": "Justin Goldston"
+      },
+      {
+        "platform": "Whatnot",
+        "type": "Live commerce channel"
+      }
+    ],
+    "community": [
+      {
+        "name": "Union Baptist Church",
+        "location": "Winston-Salem, NC"
+      },
+      {
+        "name": "New Light Baptist Church"
+      },
+      {
+        "name": "The Experiment Church",
+        "location": "Asheboro, NC"
+      }
+    ],
+    "knowledge_graph_foundation": {
+      "name": "Global Social Experiment",
+      "description": "Foundation of the GCB knowledge graph infrastructure integrating publishing, datasets, and structured knowledge systems",
+      "components": [
+        "canonical indexing",
+        "ontology development",
+        "machine-readable datasets",
+        "cross-platform distribution",
+        "educational deployment"
+      ]
+    }
+  }
+}
