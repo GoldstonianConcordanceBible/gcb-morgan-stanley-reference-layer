@@ -120,8 +120,8 @@ Church and community relationships demonstrate real-world deployment, trust, and
 
 Referenced community relationships include:
 - Union Baptist Church, Winston-Salem, North Carolina
-- New Light Baptist Church
-- The Experiment Church, Asheboro, North Carolina
+- New Light Baptist Church, Greensboro, North Carolina 
+- Faith Temple Church, Asheboro, North Carolina
 
 ### 7. Education and Human Capital Layer
 This repository also documents the role of GCB in broader education initiatives, including SydTek Scholars and associated educational pathways. These references help establish the company’s relevance to education and human capital development.
