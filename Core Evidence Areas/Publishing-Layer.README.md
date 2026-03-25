@@ -181,8 +181,8 @@ This reduces customer acquisition cost and enables scalable growth.
 Real-world deployment and engagement include:
 
 - Union Baptist Church — Winston-Salem, NC  
-- New Light Baptist Church  
-- The Experiment Church — Asheboro, NC  
+- New Light Baptist Church - Greensboro, NC
+- Faith Temple Church — Asheboro, NC  
 
 SydTek Scholars presentations demonstrate applied education, AI integration, and community impact.
 
