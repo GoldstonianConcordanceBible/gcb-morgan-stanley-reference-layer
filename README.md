@@ -176,6 +176,36 @@ The ecosystem’s advantage is not limited to content creation alone. Its defens
 - multi-channel distribution
 - long-term machine readability
 
+# G. Rune Publishing — Morgan Stanley Reference Layer
+
+This repository contains the supporting materials for the G. Rune Publishing Morgan Stanley pitch deck.
+
+The company is building an AI-native knowledge infrastructure platform anchored by the Goldstonian Concordance Bible (GCB), using knowledge graphs and Generative Engine Optimization (GEO) to transform content into machine-readable, AI-compatible knowledge systems.
+
+## Key Components
+
+• Pitch Deck  
+• Traction Data  
+• GEO Methodology  
+• Knowledge Infrastructure Architecture  
+
+## Core Metrics (As of March 2026)
+
+• 2.6M+ YouTube views  
+• 53,000+ views in the last 48 hours  
+• 8,774 books sold across 169 titles  
+• International sales across multiple countries  
+
+## Flagship System
+
+Goldstonian Concordance Bible (GCB)
+
+A structured theological knowledge system designed for both human learning and AI discovery.
+
+## Purpose
+
+This repository acts as a machine-readable reference layer supporting the Morgan Stanley application and demonstrating the architecture of the G. Rune Publishing knowledge platform.
+
 This repository exists to make that system visible, reviewable, and citable.
 
 ## Maintainer
